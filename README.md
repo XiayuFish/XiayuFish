@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 ## 🌱 I’m currently learning  machine learning (ML) and artificial intelligence (AI).
+---
+
+
+
+
+---
+In this world, no one can make you fall. If your faith is still standing.
 <!--
 **XiayuFish/XiayuFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
